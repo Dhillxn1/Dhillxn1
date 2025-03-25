@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhillxn1
+- 👋 Hi, I’m Inderpreet Dhillon
 - 👀 I’m interested in creating innovative solutions that not only meet the current needs but also anticipate and adapt to future challenges.
 - 🌱 I’m currently learning software engineering at Toronto  Metropolitan University
 - 💞️ I’m looking to collaborate on I am looking to collaborate on projects that push the boundaries of technology, foster creativity, and make a positive impact on people's lives. Whether it's developing cutting-edge software or working
